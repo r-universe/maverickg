@@ -3,9 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "cxxfunplus"]
-	path = cxxfunplus
-	url = https://github.com/maverickg/cxxfunplus
-	shallow = true
-	subdir = cxxfunplus
-	registered = true
